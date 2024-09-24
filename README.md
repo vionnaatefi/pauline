@@ -1,1 +1,1 @@
-# pauline
+# Pauline / Jha project
